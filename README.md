@@ -27,7 +27,7 @@ $ Activate Firebase Authentication Providers
 $ cd frontend
 $ npm install
 $ npm start
-$ cd backend
+$ cd backendd
 $ npm install
 $ npm start
 ```
